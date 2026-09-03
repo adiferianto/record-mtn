@@ -12,7 +12,7 @@ Project ini dikembangkan berdasarkan source code dari:
 
 👤 **[satriowisnuwardono](https://github.com/satriowisnuwardono)**
 
-Saya melakukan beberapa perbaikan dan pengembangan pada project ini, terutama pada sisi **DataTable** dan **Dashboard Utilisasi**.
+Saya melakukan beberapa perbaikan dan pengembangan pada project ini, terutama pada sisi **DataTable** dan penambahan **Dashboard Utilisasi**.
 
 ---
 
