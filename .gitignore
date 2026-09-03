@@ -1,0 +1,24 @@
+# Environment & config sensitif
+.env
+
+# Dependency (di-generate ulang via composer)
+vendor/
+
+# Writable (cache, logs, session, uploads runtime)
+writable/cache/*
+writable/logs/*
+writable/session/*
+writable/debugbar/*
+!writable/cache/index.html
+!writable/logs/index.html
+!writable/session/index.html
+!writable/debugbar/index.html
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node (kalau ada)
+node_modules/
