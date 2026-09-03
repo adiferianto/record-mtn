@@ -47,10 +47,10 @@ $routes->delete('/airSumur/(:num)', 'AirSumur::delete/$1');
 $routes->get('/airSumur/(:any)', 'AirSumur::details/$1');
 
 // AIR PRODUKSI
-$routes->get('/airProduksi/add', 'AirPoduksi::add');
-$routes->get('/airProduksi/edit/(:segment)', 'AirPoduksi::edit/$1');
-$routes->delete('/airProduksi/(:num)', 'AirPoduksi::delete/$1');
-$routes->get('/airProduksi/(:any)', 'AirPoduksi::details/$1');
+$routes->get('/airProduksi/add', 'AirProduksi::add');
+$routes->get('/airProduksi/edit/(:segment)', 'AirProduksi::edit/$1');
+$routes->delete('/airProduksi/(:num)', 'AirProduksi::delete/$1');
+$routes->get('/airProduksi/(:any)', 'AirProduksi::details/$1');
 
 // AIR PROSES
 $routes->get('/airProses/add', 'AirProses::add');
