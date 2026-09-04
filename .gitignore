@@ -2,7 +2,7 @@
 .env
 
 # Dependency (di-generate ulang via composer)
-vendor/
+/vendor/
 
 # Writable (cache, logs, session, uploads runtime)
 writable/cache/*
